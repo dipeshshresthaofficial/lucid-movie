@@ -1,3 +1,10 @@
+# Learned
+
+- REDUX (store, dispatch, subscribe, actions, reducer)
+- Movie Favourite/ Unfavourite Feature
+- search Feature in Navbar.
+- Conditional Functional Component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
